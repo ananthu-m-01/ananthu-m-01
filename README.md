@@ -27,3 +27,6 @@ This project aims to automate the waste management process. It consists of:
 
 ---
 _Thanks for visiting my profile! Feel free to check out my repositories and collaborate._ 🚀
+
+---
+_prepare for the worst hope for the best <3._

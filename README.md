@@ -18,7 +18,7 @@ This project aims to automate the waste management process. It consists of:
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananthu&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananthu&layout=compact&theme=tokyonight&hide_border=true&title_color=007BFF&text_color=FFFFFF&bg_color=1F242B&count_private=true&show_icons=true&include_all_commits=true&ring_color=007BFF&hide=html,css,shell&exclude_repo=your-repo-to-exclude&animation=true&duration=1500)
 
 ## 📫 Connect with Me
 
